@@ -17,3 +17,5 @@ int main(void) {
 }
 
 // source to install ocv: https://learnopencv.com/install-opencv-on-windows/
+
+// https://docs.opencv.org/4.x/d3/d52/tutorial_windows_install.html
